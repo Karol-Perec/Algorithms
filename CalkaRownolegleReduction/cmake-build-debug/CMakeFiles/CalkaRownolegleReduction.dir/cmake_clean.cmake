@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CalkaRownolegleReduction.dir/main.cpp.o"
-  "CalkaRownolegleReduction"
+  "CMakeFiles/CalkaRownolegleReduction.dir/main.cpp.obj"
+  "CalkaRownolegleReduction.exe"
+  "CalkaRownolegleReduction.exe.manifest"
   "CalkaRownolegleReduction.pdb"
+  "libCalkaRownolegleReduction.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

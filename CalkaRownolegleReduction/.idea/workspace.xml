@@ -11,7 +11,136 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07e8cee8-773d-4c79-84ca-4fd77fcbdf6b" name="Default Changelist" comment="" />
+    <list default="true" id="07e8cee8-773d-4c79-84ca-4fd77fcbdf6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalkaRownolegle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FordFulkerson/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Calka.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/Calka.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/Calka.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calka/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Calka/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/CalkaRownolegle.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CalkaRownolegle.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CalkaRownolegle.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CalkaRownolegleReduction.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CalkaRownolegleReduction.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/FordFulkerson.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/FordFulkerson.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/FordFulkerson.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/FordFulkerson.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../FordFulkerson/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +151,15 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TIvU0FVTE2s6f4VlJMlocOVOEC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,10 +192,22 @@
       <updated>1573160435517</updated>
       <workItem from="1573160437298" duration="1102000" />
       <workItem from="1573212411797" duration="2753000" />
+      <workItem from="1574282415476" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

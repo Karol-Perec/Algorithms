@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/PunktyRownolegle/main.cpp
+iostream
+-
+random
+-
+omp.h
+-
+cmath
+-
+time.h
+-
+cstdlib
+-
+

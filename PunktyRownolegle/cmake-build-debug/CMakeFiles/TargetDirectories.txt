@@ -1,0 +1,3 @@
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/PunktyRownolegle/cmake-build-debug/CMakeFiles/PunktyRownolegle.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/PunktyRownolegle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/PunktyRownolegle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

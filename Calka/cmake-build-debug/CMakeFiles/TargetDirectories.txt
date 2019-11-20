@@ -1,0 +1,3 @@
+/home/karol/CLionProjects/Calka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karol/CLionProjects/Calka/cmake-build-debug/CMakeFiles/Calka.dir
+/home/karol/CLionProjects/Calka/cmake-build-debug/CMakeFiles/edit_cache.dir

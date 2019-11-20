@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -fopenmp -g    CMakeFiles/CalkaRownolegleReduction.dir/main.cpp.o  -o CalkaRownolegleReduction 

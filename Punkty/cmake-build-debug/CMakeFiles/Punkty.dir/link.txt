@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -fopenmp -g    CMakeFiles/Punkty.dir/main.cpp.o  -o Punkty 

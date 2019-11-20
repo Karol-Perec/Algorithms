@@ -1,0 +1,3 @@
+/home/karol/CLionProjects/Punkty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karol/CLionProjects/Punkty/cmake-build-debug/CMakeFiles/Punkty.dir
+/home/karol/CLionProjects/Punkty/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,3 +1,3 @@
-/home/karol/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/karol/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
-/home/karol/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

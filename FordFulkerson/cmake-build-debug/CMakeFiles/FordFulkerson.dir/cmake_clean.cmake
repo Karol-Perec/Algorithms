@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.o"
-  "CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.o"
-  "CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.o"
-  "CMakeFiles/FordFulkerson.dir/main.cpp.o"
-  "FordFulkerson"
+  "CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.obj"
+  "CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.obj"
+  "CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.obj"
+  "CMakeFiles/FordFulkerson.dir/main.cpp.obj"
+  "FordFulkerson.exe"
+  "FordFulkerson.exe.manifest"
   "FordFulkerson.pdb"
+  "libFordFulkerson.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

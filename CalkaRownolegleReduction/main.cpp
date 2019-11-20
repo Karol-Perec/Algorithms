@@ -8,7 +8,6 @@ double f(double x) {
 }
 
 int main() {
-    auto n = omp_get_num_threads();
     double calka = 0;
     double a = 0;
     double b = 1;

@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/karol/CLionProjects/FordFulkerson/FordFulkersonList.cpp" "/home/karol/CLionProjects/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.o"
-  "/home/karol/CLionProjects/FordFulkerson/FordFulkersonListv2.cpp" "/home/karol/CLionProjects/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.o"
-  "/home/karol/CLionProjects/FordFulkerson/FordFulkersonMatrix.cpp" "/home/karol/CLionProjects/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.o"
-  "/home/karol/CLionProjects/FordFulkerson/main.cpp" "/home/karol/CLionProjects/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/main.cpp.o"
+  "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonList.cpp" "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.obj"
+  "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonListv2.cpp" "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.obj"
+  "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonMatrix.cpp" "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.obj"
+  "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/main.cpp" "C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/cmake-build-debug/CMakeFiles/FordFulkerson.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -7,13 +7,9 @@ double f(double x) {
 }
 
 int main() {
-    int n;
-#pragma omp parallel
-    {
-        n = omp_get_num_threads();  //poza parallel zwraca 1
-    }
-    std::vector<double> calka(n);
-    std::vector<double> time(n);
+    int n = omp_get_max_threads();
+
+    double calka[n];
     double a = 0;
     double b = 1;
     double dx = 0.000001;

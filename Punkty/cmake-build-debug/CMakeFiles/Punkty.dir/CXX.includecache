@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/karol/CLionProjects/Lab4/main.cpp
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Punkty/main.cpp
 iostream
+-
+random
 -
 omp.h
 -

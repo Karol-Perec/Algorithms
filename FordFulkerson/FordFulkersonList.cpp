@@ -5,10 +5,13 @@
 #include <iostream>
 #include <climits>
 
-int computeFlowForAdjacencyList(std::vector<std::map<int, std::vector<int>>> &adjacencyList,
+int computeFlowForAdjacencyList(std::vector<std::map<int, int>> &adjacencyList,
                                 int startNodeId,
                                 int endNodeId,
                                 int numberOfNodes) {
+    auto inputAdjacencyList{adjacencyList};
+    insertBackwardsEdges(adjacencyList);
+
     int parent[numberOfNodes];
     std::fill_n(parent, numberOfNodes, -1);
     auto maxFlow = 0;
@@ -18,7 +21,7 @@ int computeFlowForAdjacencyList(std::vector<std::map<int, std::vector<int>>> &ad
 
         auto pathNodeId = endNodeId;
         while (pathNodeId != startNodeId) {
-            pathFlow = std::min(pathFlow, adjacencyList[parent[pathNodeId]][pathNodeId][0]);
+            pathFlow = std::min(pathFlow, adjacencyList[parent[pathNodeId]][pathNodeId]);
             pathNodeId = parent[pathNodeId];
         }
 
@@ -27,12 +30,12 @@ int computeFlowForAdjacencyList(std::vector<std::map<int, std::vector<int>>> &ad
         pathNodeId = endNodeId;
         while (pathNodeId != startNodeId) {
             auto parentPathNodeId = parent[pathNodeId];
-            adjacencyList[parentPathNodeId][pathNodeId][0] -= pathFlow;
-            adjacencyList[parentPathNodeId][pathNodeId][1] += pathFlow;
+            adjacencyList[parentPathNodeId][pathNodeId] -= pathFlow;
+            adjacencyList[pathNodeId][parentPathNodeId] += pathFlow;
             pathNodeId = parentPathNodeId;
         }
     }
-    printFlowGraphForAdjacencyList(adjacencyList);
+    printFlowGraphForAdjacencyList(inputAdjacencyList, adjacencyList);
     return maxFlow;
 }
 
@@ -44,19 +47,19 @@ int computeFlowForAdjacencyList(std::string fileName) {
     } else {
         int startNodeId, endNodeId, numberOfNodes;
         file >> startNodeId >> endNodeId >> numberOfNodes;
-        std::vector<std::map<int, std::vector<int>>> edgesList(numberOfNodes);
+        std::vector<std::map<int, int>> edgesList(numberOfNodes);
 
         while (!file.eof()) {
             int u, v, residualFlow;
             file >> u >> v >> residualFlow;
 
-            edgesList[u].insert(std::pair<int, std::vector<int>>(v, {residualFlow, 0}));
+            edgesList[u].insert(std::pair<int, int>(v, residualFlow));
         }
         return computeFlowForAdjacencyList(edgesList, startNodeId, endNodeId, numberOfNodes);
     }
 }
 
-bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, std::vector<int>>> &adjacencyList,
+bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, int>> &adjacencyList,
                                         int startNodeId,
                                         int endNodeId,
                                         int numberOfNodes,
@@ -71,7 +74,7 @@ bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, std::vec
         auto u = queue.front();
         queue.pop();
         for (auto adjacentNode : adjacencyList[u]) {
-            if (!visited[adjacentNode.first] and adjacentNode.second[0] > 0) {
+            if (!visited[adjacentNode.first] and adjacentNode.second > 0) {
                 queue.push(adjacentNode.first);
                 visited[adjacentNode.first] = true;
                 parent[adjacentNode.first] = u;
@@ -84,11 +87,24 @@ bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, std::vec
     return visited[endNodeId];
 }
 
-void printFlowGraphForAdjacencyList(const std::vector<std::map<int, std::vector<int>>> &adjacencyList) {
+void insertBackwardsEdges(std::vector<std::map<int, int>> &adjacencyList) {
+    for (auto i = 0; i < adjacencyList.size(); i++) {
+        for (auto &adjacentNodes : adjacencyList[i]) {
+            if (adjacentNodes.second != 0) {
+                adjacencyList[adjacentNodes.first].insert(std::pair<int, int>(i, 0));
+            }
+        }
+    }
+}
+
+void printFlowGraphForAdjacencyList(const std::vector<std::map<int, int>> &inputAdjacencyList,
+                                    const std::vector<std::map<int, int>> &outputAdjacencyList) {
     std::cout << "The flow network for maximum flow is: " << std::endl;
-    for (auto u = 0; u < adjacencyList.size(); u++) {
-        for (auto adjacentNodes : adjacencyList[u]) {
-            std::cout << u << "--(" << adjacentNodes.second[1] << ")-->" << adjacentNodes.first << std::endl;
+    for (auto u = 0; u < inputAdjacencyList.size(); u++) {
+        for (auto adjacentNode : inputAdjacencyList[u]) {
+            if (adjacentNode.second != outputAdjacencyList[u].at(adjacentNode.first) ) {
+                std::cout << u << "--(" << outputAdjacencyList[adjacentNode.first].at(u) << ")-->" << adjacentNode.first << std::endl;
+            }
         }
     }
 }

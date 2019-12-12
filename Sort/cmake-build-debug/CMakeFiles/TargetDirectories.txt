@@ -1,0 +1,3 @@
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Sort/cmake-build-debug/CMakeFiles/Sort.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

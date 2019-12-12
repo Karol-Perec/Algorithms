@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PunktyRownolegle.dir/main.cpp.obj"
-  "PunktyRownolegle.exe"
-  "PunktyRownolegle.exe.manifest"
+  "CMakeFiles/PunktyRownolegle.dir/main.cpp.o"
+  "PunktyRownolegle"
   "PunktyRownolegle.pdb"
-  "libPunktyRownolegle.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/CalkaRownolegleReduction/main.cpp
+/home/karol/CLionProjects/CalkaRownolegleReduction/main.cpp
 iostream
 -
 omp.h

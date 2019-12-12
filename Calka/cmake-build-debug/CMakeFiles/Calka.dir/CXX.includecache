@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Calka/main.cpp
+/home/karol/CLionProjects/Calka/main.cpp
 iostream
 -
 omp.h

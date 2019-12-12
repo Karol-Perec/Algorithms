@@ -1,3 +1,3 @@
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karol/CLionProjects/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karol/CLionProjects/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/CalkaRownolegleReduction.dir
+/home/karol/CLionProjects/CalkaRownolegleReduction/cmake-build-debug/CMakeFiles/edit_cache.dir

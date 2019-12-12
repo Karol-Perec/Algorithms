@@ -4,17 +4,20 @@
 #include <string>
 #include <map>
 
-int computeFlowForAdjacencyList(std::vector<std::map<int, std::vector<int>>> &adjacencyList,
+int computeFlowForAdjacencyList(std::vector<std::map<int, int>> &adjacencyList,
                                 int startNodeId,
                                 int endNodeId,
                                 int numberOfNodes);
 
 int computeFlowForAdjacencyList(std::string fileName);
 
-bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, std::vector<int>>> &adjacencyList,
+bool breadthFirstSearchForAdjacencyList(const std::vector<std::map<int, int>> &adjacencyList,
                                         int startNodeId,
                                         int endNodeId,
                                         int numberOfNodes,
                                         int parent[]);
 
-void printFlowGraphForAdjacencyList(const std::vector<std::map<int, std::vector<int>>> &adjacencyList);
+void insertBackwardsEdges(std::vector<std::map<int, int>> &adjacencyList);
+
+void printFlowGraphForAdjacencyList(const std::vector<std::map<int, int>> &inputAdjacencyList,
+                                    const std::vector<std::map<int, int>> &outputAdjacencyList);

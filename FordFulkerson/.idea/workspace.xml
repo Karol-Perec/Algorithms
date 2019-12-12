@@ -12,41 +12,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1520a1c5-b95f-4c03-94cb-a7e7d9c87a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalkaRownolegle/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FordFulkerson.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FordFulkersonList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FordFulkersonList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FordFulkersonList.h" beforeDir="false" afterPath="$PROJECT_DIR$/FordFulkersonList.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/FordFulkerson.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/FordFulkerson.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/FordFulkerson.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/FordFulkerson.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,23 +46,16 @@
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1T4iOh77XAUYFwEDHgg448Ite8R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="FordFulkerson" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FordFulkerson" TARGET_NAME="FordFulkerson" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FordFulkerson" RUN_TARGET_NAME="FordFulkerson">
@@ -86,6 +63,18 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -105,6 +94,7 @@
       <workItem from="1573137828634" duration="564000" />
       <workItem from="1573139313927" duration="597000" />
       <workItem from="1574282152844" duration="199000" />
+      <workItem from="1575410378828" duration="10038000" />
     </task>
     <servers />
   </component>
@@ -116,10 +106,54 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="113" key="CommitChangelistDialog2" timestamp="1575424212332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575424212332" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1575423244295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1575423244295" />
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1575424199961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575424199961" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1575424199961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575424199961" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1575424199960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575424199960" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1575424199961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575424199961" />
+    <state width="1877" height="372" key="GridCell.Tab.1.bottom" timestamp="1575424173288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575424173288" />
+    <state width="1877" height="372" key="GridCell.Tab.1.center" timestamp="1575424173288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575424173288" />
+    <state width="1877" height="372" key="GridCell.Tab.1.left" timestamp="1575424173288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575424173288" />
+    <state width="1877" height="372" key="GridCell.Tab.1.right" timestamp="1575424173288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575424173288" />
   </component>
 </project>

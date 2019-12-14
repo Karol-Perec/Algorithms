@@ -6,33 +6,23 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonList.h
-vector
+/home/karol/CLionProjects/FordFulkerson/FordFulkersonMatrix.cpp
+FordFulkersonMatrix.h
+/home/karol/CLionProjects/FordFulkerson/FordFulkersonMatrix.h
+fstream
 -
-string
+algorithm
 -
-map
+queue
 -
-
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonListv2.h
-vector
--
-string
--
-
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonMatrix.h
-vector
--
-string
--
-
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/main.cpp
 iostream
 -
-FordFulkersonList.h
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonList.h
-FordFulkersonListv2.h
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonListv2.h
-FordFulkersonMatrix.h
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/FordFulkerson/FordFulkersonMatrix.h
+climits
+-
+
+/home/karol/CLionProjects/FordFulkerson/FordFulkersonMatrix.h
+vector
+-
+string
+-
 

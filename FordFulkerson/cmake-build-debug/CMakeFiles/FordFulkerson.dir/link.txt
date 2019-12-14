@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\FordFulkerson.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\FordFulkerson.dir/objects.a @CMakeFiles\FordFulkerson.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\FordFulkerson.dir/objects.a -Wl,--no-whole-archive  -o FordFulkerson.exe -Wl,--out-implib,libFordFulkerson.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FordFulkerson.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/FordFulkerson.dir/main.cpp.o CMakeFiles/FordFulkerson.dir/FordFulkersonList.cpp.o CMakeFiles/FordFulkerson.dir/FordFulkersonMatrix.cpp.o CMakeFiles/FordFulkerson.dir/FordFulkersonListv2.cpp.o  -o FordFulkerson 

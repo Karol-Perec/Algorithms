@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Punkty/main.cpp
+/home/karol/CLionProjects/Punkty/main.cpp
 iostream
 -
 random

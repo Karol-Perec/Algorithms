@@ -1,6 +1,5 @@
 #include <iostream>
 #include <omp.h>
-#include <vector>
 
 double f(double x) {
     return 4 / (1 + x * x);

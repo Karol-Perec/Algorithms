@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/PunktyRownolegle/main.cpp
+/home/karol/CLionProjects/PunktyRownolegle/main.cpp
 iostream
 -
 random

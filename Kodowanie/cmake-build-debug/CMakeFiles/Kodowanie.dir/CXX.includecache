@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/karol/CLionProjects/Kodowanie/main.cpp
+C:/Users/Karol/Desktop/Studia Informatyka/Semestr 2/Algorytmy/GitHub/algorytmy/Kodowanie/main.cpp
 iostream
 -
 fstream
@@ -14,5 +14,7 @@ fstream
 map
 -
 string
+-
+set
 -
 

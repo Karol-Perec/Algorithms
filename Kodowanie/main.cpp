@@ -7,7 +7,7 @@
 using namespace std;
 
 struct Node {
-    char character;
+    unsigned char character;
     int amount;
     struct Node *left;
     struct Node *right;
@@ -19,7 +19,7 @@ struct NodeCmp {
     }
 };
 
-void insertCodingRule(std::map<char, string> &codingTable, Node *node, const string &code) {
+void insertCodingRule(std::map<char, string> &codingTable, Node *node, const string code) {
     if (node != nullptr) {
         if (node->character) {
             codingTable.insert({node->character, code});
@@ -32,14 +32,15 @@ void insertCodingRule(std::map<char, string> &codingTable, Node *node, const str
 
 int main() {
     ifstream file("../witcher.txt");
-    map<char, int> chars;
+    file >> std::noskipws;
+    map<unsigned char, int> chars;
 
 ///wczytanie i policzenie znaków z pliku
     if (!file.is_open()) {
         std::cerr << "Can open file";
         exit(-1);
     } else {
-        char character;
+        unsigned char character;
         while (file >> character) {
             if (!chars.count(character))
                 chars.insert({character, 0});
@@ -79,7 +80,7 @@ int main() {
     } else {
         file.clear();
         file.seekg(0);
-        char character;
+        unsigned char character;
         while (file >> character)
             encodedFile << codingTable[character];
     }
@@ -91,9 +92,37 @@ int main() {
     float compressedSize = encodedFile.tellp() / 8;
     cout << "Original file size: " << originalSize << " B" << endl;
     cout << "Compressed file size: " << compressedSize << " B" << endl;
-    cout << "Compression effectivness: " << ((compressedSize - originalSize) / originalSize) * 100 << "%";
+    cout << "Compression effectivness: " << ((compressedSize - originalSize) / originalSize) * 100 << "%" << endl;
 
     encodedFile.close();
     file.close();
+
+///dekodowanie
+    ifstream encodedFile_("../witcherEncoded.txt");
+    ofstream decodedFile("../witcherDecoded.txt", std::ofstream::trunc);
+
+    if (!encodedFile_.is_open()) {
+        std::cerr << "Can open file";
+        exit(-1);
+    } else {
+        auto node = decodingTree;
+        unsigned char bit;
+        unsigned char character;
+        while (encodedFile_ >> bit) {
+            character = node->character;
+            if (character) {
+                decodedFile << character;
+                node = decodingTree;
+            }
+            if (bit == '0')
+                node = node->left;
+            else
+                node = node->right;
+
+        }
+    }
+
+    decodedFile.close();
+
     return 0;
 }

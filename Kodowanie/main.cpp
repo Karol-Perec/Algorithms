@@ -19,7 +19,7 @@ struct NodeCmp {
     }
 };
 
-void insertCodingRule(std::map<char, string> &codingTable, Node *node, const string code) {
+void insertCodingRule(std::map<char, string> &codingTable, Node *node, const string& code) {
     if (node != nullptr) {
         if (node->character) {
             codingTable.insert({node->character, code});
@@ -89,7 +89,7 @@ int main() {
     file.clear();
     file.seekg(0, ios::end);
     float originalSize = file.tellg();
-    float compressedSize = encodedFile.tellp() / 8;
+    float compressedSize = float(encodedFile.tellp()) / 8;
     cout << "Original file size: " << originalSize << " B" << endl;
     cout << "Compressed file size: " << compressedSize << " B" << endl;
     cout << "Compression effectivness: " << ((compressedSize - originalSize) / originalSize) * 100 << "%" << endl;
@@ -122,7 +122,7 @@ int main() {
         }
     }
 
+    encodedFile_.close();
     decodedFile.close();
-
     return 0;
 }

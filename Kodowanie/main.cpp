@@ -7,7 +7,7 @@
 using namespace std;
 
 struct Node {
-    unsigned char character;
+    char character;
     int amount;
     struct Node *left;
     struct Node *right;
@@ -33,14 +33,14 @@ void insertCodingRule(std::map<char, string> &codingTable, Node *node, const str
 int main() {
     ifstream file("../witcher.txt");
     file >> std::noskipws;
-    map<unsigned char, int> chars;
+    map<char, int> chars;
 
 ///wczytanie i policzenie znaków z pliku
     if (!file.is_open()) {
         std::cerr << "Can open file";
         exit(-1);
     } else {
-        unsigned char character;
+        char character;
         while (file >> character) {
             if (!chars.count(character))
                 chars.insert({character, 0});
@@ -66,10 +66,16 @@ int main() {
 
 
 ///konstrukcja tabeli kodującej
+    ofstream codingTableFile("../codingTable.txt");
     std::map<char, string> codingTable;
     insertCodingRule(codingTable, decodingTree, "");
-    for (const auto &i : codingTable)
+    for (const auto &i : codingTable) {
         cout << i.first << " <-> " << i.second << endl;
+        string x = {};
+        x += i.first;
+        codingTableFile << i.first << " " << i.second << "\n";
+    }
+    codingTableFile.close();
 
 ///zakoduj do pliku
     ofstream encodedFile("../witcherEncoded.txt", std::ofstream::trunc);
@@ -80,7 +86,7 @@ int main() {
     } else {
         file.clear();
         file.seekg(0);
-        unsigned char character;
+        char character;
         while (file >> character)
             encodedFile << codingTable[character];
     }
@@ -106,8 +112,8 @@ int main() {
         exit(-1);
     } else {
         auto node = decodingTree;
-        unsigned char bit;
-        unsigned char character;
+        char bit;
+        char character;
         while (encodedFile_ >> bit) {
             character = node->character;
             if (character) {

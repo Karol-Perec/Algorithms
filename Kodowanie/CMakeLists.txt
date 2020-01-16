@@ -3,4 +3,4 @@ project(Kodowanie)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Kodowanie main.cpp)
+add_executable(Kodowanie decode.cpp)
